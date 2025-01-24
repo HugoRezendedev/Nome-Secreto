@@ -139,8 +139,8 @@ function novoSorteio() {
 
 
 ## Como Executar o Projeto
-1. Clone este repositório em sua máquina.
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
+1.Você pode estar acessando esse link de qualquer disposivito.
+https://nome-secreto-chi.vercel.app
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com sugestões de melhoria ou correções de bugs.
